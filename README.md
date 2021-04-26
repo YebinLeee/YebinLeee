@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, This is Yebin 💗
+<br>
 
-<!--
-**YebinLeee/YebinLeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💻 Studying at SCH University, majoring in Computer Software Engineering <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🦁 LikeLion 9th Member at SCH <br>
+
+📚 Programming I Have Learned: C, C++, HTML/CSS, Python ... <br>
+
+✨ A great passion to challenge and learn new things
+<br>
+
+![YebinLeee's github stats](https://github-readme-stats.vercel.app/api?username=YebinLeee&show_icons=true&hide_border=True&&theme=buefy)
