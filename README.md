@@ -8,6 +8,6 @@
 
 ✨ A great passion to challenge and learn new things <br>
 
-⭐ (2021 Spring) I'm curretly studying Database, Operating System, Network, and Computer Vision <br><br>
+⭐ (2022 Spring) I'm curretly studying Database, Operating System, Network, and Computer Vision <br><br>
 
 ![YebinLeee's github stats](https://github-readme-stats.vercel.app/api?username=YebinLeee&show_icons=true&hide_border=True&&theme=buefy)
